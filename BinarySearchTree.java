@@ -1,6 +1,5 @@
 /*
  * Written By: Rubaisha Aslam 
- * Student Number: 251179721
  * Assignment 4
  * This class implements an ordered dictionary using a binary search tree
  * Node of the tree will store Pel object; 
