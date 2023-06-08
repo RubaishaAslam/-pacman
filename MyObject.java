@@ -1,6 +1,5 @@
 /*
  * Written By: Rubaisha Aslam 
- * Student Number: 251179721
  * Assignment 4
  * This class creates the objects for the game to be played. It stores the locus and the BST.
  * */
