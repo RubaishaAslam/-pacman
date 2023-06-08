@@ -1,6 +1,5 @@
 /*
  * Written By: Rubaisha Aslam 
- * Student Number: 251179721
  * Assignment 4
  * This class represents the nodes of the binary search tree
  * Each node such as parent, left and right would store an object of the class Pel
