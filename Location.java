@@ -1,6 +1,5 @@
 /*
  * Written By: Rubaisha Aslam 
- * Student Number: 251179721
  * Assignment 4
  * This class represents the location (x, y) of a pel will be used in other classes 
  * */
