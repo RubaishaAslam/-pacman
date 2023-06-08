@@ -1,6 +1,5 @@
 /*
  * Written By: Rubaisha Aslam 
- * Student Number: 251179721
  * Assignment 4
  * This class represents the data items to be stored in the nodes of the binary search tree 
  * */
